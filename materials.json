@@ -1,0 +1,885 @@
+[
+  {
+    "name_ko": "스위트오렌지",
+    "name_en": "Sweet Orange",
+    "latin_name": "Citrus sinensis",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "citrus",
+      "sweet",
+      "fresh",
+      "bright"
+    ],
+    "effects": [
+      "uplift",
+      "refresh",
+      "stress"
+    ],
+    "mood_keywords": [
+      "우울",
+      "무기력",
+      "기분전환",
+      "상쾌",
+      "밝은",
+      "활기",
+      "피곤",
+      "오렌지"
+    ],
+    "safety_flags": [
+      "oxidation_caution"
+    ],
+    "intensity": "medium",
+    "description": "달콤하고 밝은 시트러스 향. 무거운 기분을 환기하고 밝은 분위기를 만드는 데 적합하다.",
+    "room_spray_tip": "처음 향을 밝게 열어주는 탑노트로 20~40% 범위에서 쓰기 좋다."
+  },
+  {
+    "name_ko": "레몬",
+    "name_en": "Lemon",
+    "latin_name": "Citrus limon",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "citrus",
+      "fresh",
+      "clean",
+      "sharp"
+    ],
+    "effects": [
+      "focus",
+      "refresh",
+      "clarity",
+      "clean"
+    ],
+    "mood_keywords": [
+      "집중",
+      "피곤",
+      "졸림",
+      "상쾌",
+      "맑은",
+      "무거움",
+      "공부",
+      "정리",
+      "레몬"
+    ],
+    "safety_flags": [
+      "phototoxic_caution",
+      "oxidation_caution"
+    ],
+    "intensity": "medium",
+    "description": "맑고 깨끗한 시트러스 향. 집중, 환기, 청량한 공간 컨셉에 잘 어울린다.",
+    "room_spray_tip": "로즈마리, 페퍼민트, 시더우드와 함께 집중용 룸스프레이에 적합하다."
+  },
+  {
+    "name_ko": "자몽",
+    "name_en": "Grapefruit",
+    "latin_name": "Citrus paradisi",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "citrus",
+      "bitter",
+      "fresh",
+      "juicy"
+    ],
+    "effects": [
+      "uplift",
+      "refresh",
+      "fatigue",
+      "fresh"
+    ],
+    "mood_keywords": [
+      "무기력",
+      "피곤",
+      "기분전환",
+      "상쾌",
+      "밝은",
+      "아침",
+      "가벼운",
+      "여름",
+      "산뜻"
+    ],
+    "safety_flags": [
+      "phototoxic_caution",
+      "oxidation_caution"
+    ],
+    "intensity": "medium",
+    "description": "쌉싸름하고 생기 있는 시트러스 향. 아침이나 운동 후 공간 리프레시에 적합하다.",
+    "room_spray_tip": "달콤한 오렌지보다 산뜻하고 가벼운 분위기를 만들 때 사용한다."
+  },
+  {
+    "name_ko": "베르가못 FCF",
+    "name_en": "Bergamot FCF",
+    "latin_name": "Citrus bergamia",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "citrus",
+      "floral",
+      "fresh",
+      "soft"
+    ],
+    "effects": [
+      "relax",
+      "uplift",
+      "stress",
+      "balance",
+      "fresh_floral"
+    ],
+    "mood_keywords": [
+      "스트레스",
+      "불안",
+      "기분전환",
+      "밝은",
+      "차분",
+      "예민",
+      "긴장",
+      "가벼운",
+      "베르가못"
+    ],
+    "safety_flags": [
+      "oxidation_caution"
+    ],
+    "intensity": "medium",
+    "description": "시트러스와 부드러운 플로럴감이 함께 느껴지는 향. 밝지만 과하지 않은 안정감 있는 분위기에 적합하다.",
+    "room_spray_tip": "라벤더, 시더우드와 조합하면 수면 전 이완 블렌드가 부드러워진다."
+  },
+  {
+    "name_ko": "페퍼민트",
+    "name_en": "Peppermint",
+    "latin_name": "Mentha x piperita",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "mint",
+      "cool",
+      "sharp",
+      "fresh"
+    ],
+    "effects": [
+      "refresh",
+      "clarity",
+      "head_clear",
+      "fatigue",
+      "cool"
+    ],
+    "mood_keywords": [
+      "두통",
+      "답답",
+      "졸림",
+      "상쾌",
+      "맑은",
+      "피곤",
+      "시원",
+      "강한",
+      "쿨링"
+    ],
+    "safety_flags": [
+      "children_caution",
+      "asthma_caution",
+      "strong_irritant_possible"
+    ],
+    "intensity": "strong",
+    "description": "시원하고 강한 민트 향. 답답함이나 졸림을 환기하는 인상을 주지만 소량 사용이 적합하다.",
+    "room_spray_tip": "전체 향료 중 3~10% 정도의 낮은 비율로 시작하는 것이 좋다."
+  },
+  {
+    "name_ko": "스피어민트",
+    "name_en": "Spearmint",
+    "latin_name": "Mentha spicata",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "mint",
+      "sweet",
+      "green",
+      "fresh"
+    ],
+    "effects": [
+      "refresh",
+      "clarity",
+      "comfort",
+      "cool",
+      "soft_focus"
+    ],
+    "mood_keywords": [
+      "상쾌",
+      "시원",
+      "부드러운",
+      "기분전환",
+      "답답",
+      "맑은",
+      "쿨링"
+    ],
+    "safety_flags": [
+      "children_caution",
+      "asthma_caution"
+    ],
+    "intensity": "medium",
+    "description": "페퍼민트보다 달콤하고 부드러운 민트 향. 자극을 줄인 상쾌한 블렌드에 적합하다.",
+    "room_spray_tip": "페퍼민트가 너무 강하게 느껴지는 사용자에게 대체 후보가 될 수 있다."
+  },
+  {
+    "name_ko": "유칼립투스 라디아타",
+    "name_en": "Eucalyptus Radiata",
+    "latin_name": "Eucalyptus radiata",
+    "note": "top",
+    "category": "essential_oil",
+    "odor_family": [
+      "camphoraceous",
+      "fresh",
+      "soft",
+      "clean"
+    ],
+    "effects": [
+      "refresh",
+      "breathing_space",
+      "clarity"
+    ],
+    "mood_keywords": [
+      "답답",
+      "상쾌",
+      "공기",
+      "환기",
+      "맑은",
+      "부드러운"
+    ],
+    "safety_flags": [
+      "children_caution",
+      "asthma_caution",
+      "pet_caution"
+    ],
+    "intensity": "medium",
+    "description": "글로불루스보다 부드러운 유칼립투스 향. 깨끗한 공기감과 시원함을 준다.",
+    "room_spray_tip": "강한 캠퍼 향을 줄이고 싶을 때 유칼립투스 글로불루스 대신 사용한다."
+  },
+  {
+    "name_ko": "마린 어코드",
+    "name_en": "Marine Accord",
+    "latin_name": "",
+    "note": "top",
+    "category": "fragrance_accord",
+    "odor_family": [
+      "marine",
+      "watery",
+      "fresh",
+      "airy"
+    ],
+    "effects": [
+      "refresh",
+      "open_space",
+      "clean",
+      "fresh"
+    ],
+    "mood_keywords": [
+      "바다",
+      "공기",
+      "시원",
+      "상쾌",
+      "넓은",
+      "환기",
+      "깨끗",
+      "가벼운",
+      "여름",
+      "물기"
+    ],
+    "safety_flags": [
+      "ifra_review_required",
+      "allergen_review_required"
+    ],
+    "intensity": "medium",
+    "description": "바다 공기 같은 시원하고 넓은 향. 답답한 실내를 개방감 있게 연출하는 데 적합하다.",
+    "room_spray_tip": "천연 에센셜오일만으로 구현하기 어려워 향료 어코드가 필요할 수 있다."
+  },
+  {
+    "name_ko": "라벤더",
+    "name_en": "Lavender",
+    "latin_name": "Lavandula angustifolia",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "floral",
+      "herbal",
+      "soft",
+      "powdery"
+    ],
+    "effects": [
+      "relax",
+      "sleep",
+      "stress",
+      "calm",
+      "floral",
+      "powdery"
+    ],
+    "mood_keywords": [
+      "긴장",
+      "불안",
+      "스트레스",
+      "잠",
+      "수면",
+      "차분",
+      "편안",
+      "예민",
+      "허브",
+      "플로럴",
+      "라벤더",
+      "침실"
+    ],
+    "safety_flags": [
+      "skin_sensitization_possible"
+    ],
+    "intensity": "medium",
+    "description": "부드러운 허브 플로럴 향. 긴장감이 높거나 자기 전 차분한 공간 분위기를 만들 때 쓰기 좋다.",
+    "room_spray_tip": "수면 전, 침실, 독서 공간용 블렌드의 중심 향으로 적합하다."
+  },
+  {
+    "name_ko": "로즈마리",
+    "name_en": "Rosemary",
+    "latin_name": "Salvia rosmarinus",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "herbal",
+      "green",
+      "sharp",
+      "camphoraceous"
+    ],
+    "effects": [
+      "focus",
+      "clarity",
+      "fatigue",
+      "refresh"
+    ],
+    "mood_keywords": [
+      "집중",
+      "피곤",
+      "졸림",
+      "멍함",
+      "공부",
+      "기억",
+      "상쾌",
+      "허브"
+    ],
+    "safety_flags": [
+      "pregnancy_caution",
+      "epilepsy_caution",
+      "strong_irritant_possible"
+    ],
+    "intensity": "strong",
+    "description": "선명하고 강한 허브 향. 공부, 작업, 집중 컨셉에 적합하지만 강도가 높아 비율 조절이 필요하다.",
+    "room_spray_tip": "레몬, 페퍼민트와 함께 쓰면 선명한 집중감을 만들 수 있다."
+  },
+  {
+    "name_ko": "제라늄",
+    "name_en": "Geranium",
+    "latin_name": "Pelargonium graveolens",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "floral",
+      "green",
+      "rosy",
+      "leafy"
+    ],
+    "effects": [
+      "balance",
+      "relax",
+      "uplift",
+      "stress",
+      "romantic",
+      "green",
+      "floral",
+      "fresh_floral"
+    ],
+    "mood_keywords": [
+      "예민",
+      "기분",
+      "균형",
+      "스트레스",
+      "우울",
+      "불안",
+      "여성스러운",
+      "플로럴",
+      "초록",
+      "싱그러운",
+      "장미"
+    ],
+    "safety_flags": [
+      "skin_sensitization_possible"
+    ],
+    "intensity": "medium",
+    "description": "장미 느낌과 그린함이 함께 있는 플로럴 향. 감정 균형과 부드러운 기분 전환 컨셉에 적합하다.",
+    "room_spray_tip": "시트러스, 라벤더, 우디 향과 폭넓게 잘 어울린다."
+  },
+  {
+    "name_ko": "일랑일랑",
+    "name_en": "Ylang Ylang",
+    "latin_name": "Cananga odorata",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "floral",
+      "sweet",
+      "exotic",
+      "heavy"
+    ],
+    "effects": [
+      "relax",
+      "sensual",
+      "comfort",
+      "uplift",
+      "romantic",
+      "luxury",
+      "floral"
+    ],
+    "mood_keywords": [
+      "긴장",
+      "편안",
+      "로맨틱",
+      "우울",
+      "기분",
+      "달콤",
+      "이완",
+      "고급",
+      "플로럴",
+      "무거운",
+      "화려한"
+    ],
+    "safety_flags": [
+      "headache_possible",
+      "skin_sensitization_possible",
+      "strong_irritant_possible"
+    ],
+    "intensity": "strong",
+    "description": "달콤하고 진한 열대 플로럴 향. 이완감과 화려한 분위기에 적합하지만 과하면 부담스러울 수 있다.",
+    "room_spray_tip": "1~5% 정도의 포인트 원료로 시작하는 것이 좋다."
+  },
+  {
+    "name_ko": "티트리",
+    "name_en": "Tea Tree",
+    "latin_name": "Melaleuca alternifolia",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "medicinal",
+      "herbal",
+      "clean",
+      "sharp"
+    ],
+    "effects": [
+      "clean",
+      "refresh",
+      "purify"
+    ],
+    "mood_keywords": [
+      "깨끗",
+      "정화",
+      "환기",
+      "답답",
+      "공기",
+      "상쾌",
+      "위생"
+    ],
+    "safety_flags": [
+      "pet_caution",
+      "skin_sensitization_possible",
+      "oxidation_caution"
+    ],
+    "intensity": "strong",
+    "description": "약초적이고 깨끗한 인상의 향. 위생적이고 정돈된 공간 컨셉에 적합하다.",
+    "room_spray_tip": "향이 의약품처럼 느껴질 수 있어 시트러스나 우디 향으로 부드럽게 만든다."
+  },
+  {
+    "name_ko": "사이프러스",
+    "name_en": "Cypress",
+    "latin_name": "Cupressus sempervirens",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "woody",
+      "conifer",
+      "fresh",
+      "green"
+    ],
+    "effects": [
+      "refresh",
+      "grounding",
+      "clarity",
+      "forest",
+      "green"
+    ],
+    "mood_keywords": [
+      "상쾌",
+      "차분",
+      "숲",
+      "맑은",
+      "환기",
+      "정리",
+      "자연",
+      "초록",
+      "싱그러운"
+    ],
+    "safety_flags": [],
+    "intensity": "medium",
+    "description": "침엽수의 맑고 건조한 우디 향. 숲속처럼 깨끗하고 차분한 분위기에 적합하다.",
+    "room_spray_tip": "시트러스와 조합하면 산뜻한 숲 향 룸스프레이가 된다."
+  },
+  {
+    "name_ko": "진저",
+    "name_en": "Ginger",
+    "latin_name": "Zingiber officinale",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "spicy",
+      "warm",
+      "rooty",
+      "fresh"
+    ],
+    "effects": [
+      "warmth",
+      "comfort",
+      "energy",
+      "spice"
+    ],
+    "mood_keywords": [
+      "따뜻한",
+      "무기력",
+      "피곤",
+      "위로",
+      "활기",
+      "추운",
+      "소화",
+      "스파이스",
+      "매운"
+    ],
+    "safety_flags": [
+      "skin_irritation_possible"
+    ],
+    "intensity": "medium",
+    "description": "따뜻하고 뿌리 느낌이 있는 스파이시 향. 차갑고 무기력한 분위기를 데우는 컨셉에 적합하다.",
+    "room_spray_tip": "시트러스와 조합하면 따뜻한 기분전환 블렌드가 된다."
+  },
+  {
+    "name_ko": "마조람",
+    "name_en": "Sweet Marjoram",
+    "latin_name": "Origanum majorana",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "herbal",
+      "warm",
+      "soft",
+      "slightly_spicy"
+    ],
+    "effects": [
+      "relax",
+      "sleep",
+      "comfort",
+      "stress"
+    ],
+    "mood_keywords": [
+      "긴장",
+      "잠",
+      "수면",
+      "차분",
+      "편안",
+      "따뜻한",
+      "스트레스",
+      "허브",
+      "침실"
+    ],
+    "safety_flags": [
+      "pregnancy_caution"
+    ],
+    "intensity": "medium",
+    "description": "따뜻하고 부드러운 허브 향. 라벤더보다 포근한 이완 컨셉에 적합하다.",
+    "room_spray_tip": "침실용 블렌드에서 라벤더, 시더우드와 잘 어울린다."
+  },
+  {
+    "name_ko": "로만 카모마일",
+    "name_en": "Roman Chamomile",
+    "latin_name": "Chamaemelum nobile",
+    "note": "middle",
+    "category": "essential_oil",
+    "odor_family": [
+      "floral",
+      "apple",
+      "herbal",
+      "soft"
+    ],
+    "effects": [
+      "relax",
+      "sleep",
+      "comfort",
+      "stress",
+      "sensitive",
+      "floral"
+    ],
+    "mood_keywords": [
+      "불안",
+      "긴장",
+      "잠",
+      "수면",
+      "편안",
+      "차분",
+      "부드러운",
+      "플로럴",
+      "침실",
+      "민감"
+    ],
+    "safety_flags": [
+      "allergy_caution",
+      "expensive_material"
+    ],
+    "intensity": "soft",
+    "description": "사과 같은 부드러운 허브 플로럴 향. 민감하고 긴장된 분위기를 낮추는 컨셉에 적합하다.",
+    "room_spray_tip": "소량으로도 침실 블렌드의 부드러움을 높인다."
+  },
+  {
+    "name_ko": "시더우드 아틀라스",
+    "name_en": "Cedarwood Atlas",
+    "latin_name": "Cedrus atlantica",
+    "note": "base",
+    "category": "essential_oil",
+    "odor_family": [
+      "woody",
+      "dry",
+      "warm",
+      "balsamic"
+    ],
+    "effects": [
+      "grounding",
+      "calm",
+      "stability",
+      "sleep",
+      "forest"
+    ],
+    "mood_keywords": [
+      "차분",
+      "안정",
+      "불안",
+      "묵직",
+      "편안",
+      "잠",
+      "수면",
+      "자연",
+      "서재",
+      "건조한"
+    ],
+    "safety_flags": [],
+    "intensity": "medium",
+    "description": "건조하고 따뜻한 우디 향. 블렌드의 지속감과 안정감을 높인다.",
+    "room_spray_tip": "수면 전, 명상, 서재용 블렌드의 베이스로 좋다."
+  },
+  {
+    "name_ko": "프랑킨센스",
+    "name_en": "Frankincense",
+    "latin_name": "Boswellia carterii",
+    "note": "base",
+    "category": "essential_oil",
+    "odor_family": [
+      "resin",
+      "woody",
+      "balsamic",
+      "soft"
+    ],
+    "effects": [
+      "calm",
+      "meditation",
+      "grounding",
+      "stress",
+      "luxury"
+    ],
+    "mood_keywords": [
+      "명상",
+      "차분",
+      "불안",
+      "깊은",
+      "안정",
+      "호흡",
+      "고요",
+      "고급"
+    ],
+    "safety_flags": [],
+    "intensity": "medium",
+    "description": "수지감 있는 부드러운 우디 향. 고요하고 깊은 분위기에 적합하다.",
+    "room_spray_tip": "라벤더, 베르가못, 시더우드와 조합하면 이완 블렌드가 안정된다."
+  },
+  {
+    "name_ko": "파출리",
+    "name_en": "Patchouli",
+    "latin_name": "Pogostemon cablin",
+    "note": "base",
+    "category": "essential_oil",
+    "odor_family": [
+      "earthy",
+      "woody",
+      "dark",
+      "musky"
+    ],
+    "effects": [
+      "grounding",
+      "stability",
+      "deep_calm",
+      "long_lasting"
+    ],
+    "mood_keywords": [
+      "안정",
+      "묵직",
+      "깊은",
+      "차분",
+      "흙",
+      "고요",
+      "강한",
+      "독특한",
+      "무거운",
+      "지속"
+    ],
+    "safety_flags": [
+      "strong_irritant_possible"
+    ],
+    "intensity": "strong",
+    "description": "흙내음과 어두운 우디감이 있는 향. 깊고 안정적인 분위기를 만든다.",
+    "room_spray_tip": "소량만 사용해도 지속력과 무게감이 크게 증가한다."
+  },
+  {
+    "name_ko": "벤조인",
+    "name_en": "Benzoin",
+    "latin_name": "Styrax benzoin",
+    "note": "base",
+    "category": "resinoid",
+    "odor_family": [
+      "vanilla",
+      "balsamic",
+      "sweet",
+      "warm"
+    ],
+    "effects": [
+      "comfort",
+      "warmth",
+      "relax",
+      "cozy"
+    ],
+    "mood_keywords": [
+      "따뜻한",
+      "포근",
+      "위로",
+      "편안",
+      "달콤",
+      "겨울"
+    ],
+    "safety_flags": [
+      "viscous_material",
+      "skin_sensitization_possible"
+    ],
+    "intensity": "medium",
+    "description": "바닐라 같은 달콤하고 따뜻한 수지 향. 포근하고 위로감 있는 분위기에 적합하다.",
+    "room_spray_tip": "용해성이 낮거나 끈적일 수 있어 베이스와 가용화 안정성 확인이 필요하다."
+  },
+  {
+    "name_ko": "바닐라 올레오레진",
+    "name_en": "Vanilla Oleoresin",
+    "latin_name": "Vanilla planifolia",
+    "note": "base",
+    "category": "oleoresin",
+    "odor_family": [
+      "vanilla",
+      "sweet",
+      "warm",
+      "gourmand"
+    ],
+    "effects": [
+      "comfort",
+      "warmth",
+      "cozy"
+    ],
+    "mood_keywords": [
+      "포근",
+      "달콤",
+      "위로",
+      "따뜻한",
+      "편안",
+      "겨울",
+      "카페",
+      "바닐라"
+    ],
+    "safety_flags": [
+      "solubility_caution",
+      "viscous_material"
+    ],
+    "intensity": "medium",
+    "description": "달콤하고 포근한 바닐라 향. 안정감 있고 따뜻한 공간 분위기에 적합하다.",
+    "room_spray_tip": "물 기반 스프레이에서는 용해와 탁도 문제가 생길 수 있어 가용화 테스트가 필요하다."
+  },
+  {
+    "name_ko": "화이트 머스크",
+    "name_en": "White Musk Accord",
+    "latin_name": "",
+    "note": "base",
+    "category": "fragrance_accord",
+    "odor_family": [
+      "musk",
+      "clean",
+      "soft",
+      "powdery"
+    ],
+    "effects": [
+      "comfort",
+      "clean",
+      "softness",
+      "long_lasting",
+      "powdery"
+    ],
+    "mood_keywords": [
+      "깨끗",
+      "포근",
+      "부드러운",
+      "세탁",
+      "편안",
+      "은은한",
+      "파우더리",
+      "지속"
+    ],
+    "safety_flags": [
+      "ifra_review_required",
+      "allergen_review_required"
+    ],
+    "intensity": "soft",
+    "description": "깨끗하고 포근한 머스크 향. 세탁물, 침구, 드레스룸 분위기에 적합하다.",
+    "room_spray_tip": "지속력을 높이는 베이스 역할을 하며 향료 문서 확인이 필요하다."
+  },
+  {
+    "name_ko": "이소 이 슈퍼 타입",
+    "name_en": "Iso E Super Type Accord",
+    "latin_name": "",
+    "note": "base",
+    "category": "aroma_chemical_accord",
+    "odor_family": [
+      "woody",
+      "velvety",
+      "amber",
+      "soft"
+    ],
+    "effects": [
+      "smoothness",
+      "luxury",
+      "calm"
+    ],
+    "mood_keywords": [
+      "부드러운",
+      "우디",
+      "세련된",
+      "차분",
+      "고급",
+      "은은한"
+    ],
+    "safety_flags": [
+      "ifra_review_required",
+      "allergen_review_required"
+    ],
+    "intensity": "soft",
+    "description": "벨벳 같은 부드러운 우디 앰버 향. 블렌드를 세련되고 둥글게 만든다.",
+    "room_spray_tip": "천연 향의 거친 부분을 부드럽게 연결하는 베이스로 사용한다."
+  }
+]
